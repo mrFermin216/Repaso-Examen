@@ -1,0 +1,29 @@
+{
+  "name": "tablero_fermin",
+  "version": "1.0.0",
+  "description": "repaso del examen ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrFermin216/Repaso-Examen.git"
+  },
+  "keywords": [
+    "node",
+    "examen",
+    "fermin",
+    "tronix"
+  ],
+  "author": "Fermin Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrFermin216/Repaso-Examen/issues"
+  },
+  "homepage": "https://github.com/mrFermin216/Repaso-Examen#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.1"
+  }
+}
